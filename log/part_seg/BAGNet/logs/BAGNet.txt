@@ -1,0 +1,642 @@
+2022-11-09 19:42:33,206 - Model - INFO - PARAMETER ...
+2022-11-09 19:42:33,206 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20)
+2022-11-09 19:42:33,290 - Model - INFO - The number of training data is: 13998
+2022-11-09 19:42:33,290 - Model - INFO - The number of test data is: 2874
+2022-11-09 19:48:22,958 - Model - INFO - PARAMETER ...
+2022-11-09 19:48:22,958 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-09 19:48:23,042 - Model - INFO - The number of training data is: 13998
+2022-11-09 19:48:23,042 - Model - INFO - The number of test data is: 2874
+2022-11-09 19:48:23,058 - Model - INFO - No existing model, starting training from scratch...
+2022-11-09 19:48:23,063 - Model - INFO - Epoch 1 (1/251):
+2022-11-09 19:48:23,063 - Model - INFO - Learning rate:0.001000
+2022-11-09 19:49:13,681 - Model - INFO - PARAMETER ...
+2022-11-09 19:49:13,681 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-09 19:49:13,763 - Model - INFO - The number of training data is: 13998
+2022-11-09 19:49:13,763 - Model - INFO - The number of test data is: 2874
+2022-11-09 19:49:13,780 - Model - INFO - No existing model, starting training from scratch...
+2022-11-09 19:49:13,783 - Model - INFO - Epoch 1 (1/251):
+2022-11-09 19:49:13,783 - Model - INFO - Learning rate:0.001000
+2022-11-09 19:50:30,606 - Model - INFO - PARAMETER ...
+2022-11-09 19:50:30,607 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-09 19:50:30,691 - Model - INFO - The number of training data is: 13998
+2022-11-09 19:50:30,691 - Model - INFO - The number of test data is: 2874
+2022-11-09 19:50:30,708 - Model - INFO - No existing model, starting training from scratch...
+2022-11-09 19:50:30,711 - Model - INFO - Epoch 1 (1/251):
+2022-11-09 19:50:30,711 - Model - INFO - Learning rate:0.001000
+2022-11-09 19:50:49,301 - Model - INFO - PARAMETER ...
+2022-11-09 19:50:49,301 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-09 19:50:49,386 - Model - INFO - The number of training data is: 13998
+2022-11-09 19:50:49,386 - Model - INFO - The number of test data is: 2874
+2022-11-09 19:50:49,403 - Model - INFO - No existing model, starting training from scratch...
+2022-11-09 19:50:49,406 - Model - INFO - Epoch 1 (1/251):
+2022-11-09 19:50:49,406 - Model - INFO - Learning rate:0.001000
+2022-11-09 19:51:58,139 - Model - INFO - PARAMETER ...
+2022-11-09 19:51:58,139 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-09 19:51:58,224 - Model - INFO - The number of training data is: 13998
+2022-11-09 19:51:58,225 - Model - INFO - The number of test data is: 2874
+2022-11-09 19:51:58,242 - Model - INFO - No existing model, starting training from scratch...
+2022-11-09 19:51:58,246 - Model - INFO - Epoch 1 (1/251):
+2022-11-09 19:51:58,246 - Model - INFO - Learning rate:0.001000
+2022-11-09 19:55:13,799 - Model - INFO - PARAMETER ...
+2022-11-09 19:55:13,799 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-09 19:55:13,883 - Model - INFO - The number of training data is: 13998
+2022-11-09 19:55:13,883 - Model - INFO - The number of test data is: 2874
+2022-11-09 19:55:13,901 - Model - INFO - No existing model, starting training from scratch...
+2022-11-09 19:55:13,905 - Model - INFO - Epoch 1 (1/251):
+2022-11-09 19:55:13,905 - Model - INFO - Learning rate:0.001000
+2022-11-09 19:55:29,944 - Model - INFO - PARAMETER ...
+2022-11-09 19:55:29,944 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-09 19:55:30,028 - Model - INFO - The number of training data is: 13998
+2022-11-09 19:55:30,028 - Model - INFO - The number of test data is: 2874
+2022-11-09 19:55:30,047 - Model - INFO - No existing model, starting training from scratch...
+2022-11-09 19:55:30,050 - Model - INFO - Epoch 1 (1/251):
+2022-11-09 19:55:30,050 - Model - INFO - Learning rate:0.001000
+2022-11-09 19:56:06,164 - Model - INFO - PARAMETER ...
+2022-11-09 19:56:06,164 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-09 19:56:06,247 - Model - INFO - The number of training data is: 13998
+2022-11-09 19:56:06,247 - Model - INFO - The number of test data is: 2874
+2022-11-09 19:56:06,266 - Model - INFO - No existing model, starting training from scratch...
+2022-11-09 19:56:06,269 - Model - INFO - Epoch 1 (1/251):
+2022-11-09 19:56:06,269 - Model - INFO - Learning rate:0.001000
+2022-11-09 19:57:35,310 - Model - INFO - PARAMETER ...
+2022-11-09 19:57:35,310 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-09 19:57:35,392 - Model - INFO - The number of training data is: 13998
+2022-11-09 19:57:35,392 - Model - INFO - The number of test data is: 2874
+2022-11-09 19:57:35,409 - Model - INFO - No existing model, starting training from scratch...
+2022-11-09 19:57:35,413 - Model - INFO - Epoch 1 (1/251):
+2022-11-09 19:57:35,413 - Model - INFO - Learning rate:0.001000
+2022-11-09 19:59:01,354 - Model - INFO - PARAMETER ...
+2022-11-09 19:59:01,354 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-09 19:59:01,438 - Model - INFO - The number of training data is: 13998
+2022-11-09 19:59:01,439 - Model - INFO - The number of test data is: 2874
+2022-11-09 19:59:01,457 - Model - INFO - No existing model, starting training from scratch...
+2022-11-09 19:59:01,460 - Model - INFO - Epoch 1 (1/251):
+2022-11-09 19:59:01,460 - Model - INFO - Learning rate:0.001000
+2022-11-09 20:00:54,071 - Model - INFO - PARAMETER ...
+2022-11-09 20:00:54,071 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-09 20:00:54,154 - Model - INFO - The number of training data is: 13998
+2022-11-09 20:00:54,154 - Model - INFO - The number of test data is: 2874
+2022-11-09 20:00:54,173 - Model - INFO - No existing model, starting training from scratch...
+2022-11-09 20:00:54,176 - Model - INFO - Epoch 1 (1/251):
+2022-11-09 20:00:54,176 - Model - INFO - Learning rate:0.001000
+2022-11-09 20:01:51,221 - Model - INFO - PARAMETER ...
+2022-11-09 20:01:51,221 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-09 20:01:51,304 - Model - INFO - The number of training data is: 13998
+2022-11-09 20:01:51,305 - Model - INFO - The number of test data is: 2874
+2022-11-09 20:01:51,323 - Model - INFO - No existing model, starting training from scratch...
+2022-11-09 20:01:51,327 - Model - INFO - Epoch 1 (1/251):
+2022-11-09 20:01:51,327 - Model - INFO - Learning rate:0.001000
+2022-11-09 20:03:24,793 - Model - INFO - PARAMETER ...
+2022-11-09 20:03:24,793 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-09 20:03:24,874 - Model - INFO - The number of training data is: 13998
+2022-11-09 20:03:24,874 - Model - INFO - The number of test data is: 2874
+2022-11-09 20:03:24,892 - Model - INFO - No existing model, starting training from scratch...
+2022-11-09 20:03:24,895 - Model - INFO - Epoch 1 (1/251):
+2022-11-09 20:03:24,895 - Model - INFO - Learning rate:0.001000
+2022-11-09 20:05:00,843 - Model - INFO - PARAMETER ...
+2022-11-09 20:05:00,843 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-09 20:05:00,925 - Model - INFO - The number of training data is: 13998
+2022-11-09 20:05:00,926 - Model - INFO - The number of test data is: 2874
+2022-11-09 20:05:00,943 - Model - INFO - No existing model, starting training from scratch...
+2022-11-09 20:05:00,946 - Model - INFO - Epoch 1 (1/251):
+2022-11-09 20:05:00,946 - Model - INFO - Learning rate:0.001000
+2022-11-09 20:06:28,027 - Model - INFO - PARAMETER ...
+2022-11-09 20:06:28,027 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-09 20:06:28,121 - Model - INFO - The number of training data is: 13998
+2022-11-09 20:06:28,121 - Model - INFO - The number of test data is: 2874
+2022-11-09 20:06:28,140 - Model - INFO - No existing model, starting training from scratch...
+2022-11-09 20:06:28,143 - Model - INFO - Epoch 1 (1/251):
+2022-11-09 20:06:28,144 - Model - INFO - Learning rate:0.001000
+2022-11-09 20:06:59,317 - Model - INFO - PARAMETER ...
+2022-11-09 20:06:59,317 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-09 20:06:59,401 - Model - INFO - The number of training data is: 13998
+2022-11-09 20:06:59,401 - Model - INFO - The number of test data is: 2874
+2022-11-09 20:06:59,418 - Model - INFO - No existing model, starting training from scratch...
+2022-11-09 20:06:59,421 - Model - INFO - Epoch 1 (1/251):
+2022-11-09 20:06:59,421 - Model - INFO - Learning rate:0.001000
+2022-11-09 20:09:03,420 - Model - INFO - PARAMETER ...
+2022-11-09 20:09:03,420 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-09 20:09:03,505 - Model - INFO - The number of training data is: 13998
+2022-11-09 20:09:03,505 - Model - INFO - The number of test data is: 2874
+2022-11-09 20:09:03,524 - Model - INFO - No existing model, starting training from scratch...
+2022-11-09 20:09:03,527 - Model - INFO - Epoch 1 (1/251):
+2022-11-09 20:09:03,527 - Model - INFO - Learning rate:0.001000
+2022-11-09 20:09:32,396 - Model - INFO - PARAMETER ...
+2022-11-09 20:09:32,396 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-09 20:09:32,479 - Model - INFO - The number of training data is: 13998
+2022-11-09 20:09:32,479 - Model - INFO - The number of test data is: 2874
+2022-11-09 20:09:32,498 - Model - INFO - No existing model, starting training from scratch...
+2022-11-09 20:09:32,501 - Model - INFO - Epoch 1 (1/251):
+2022-11-09 20:09:32,501 - Model - INFO - Learning rate:0.001000
+2022-11-09 20:10:38,045 - Model - INFO - PARAMETER ...
+2022-11-09 20:10:38,045 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-09 20:10:38,145 - Model - INFO - The number of training data is: 13998
+2022-11-09 20:10:38,145 - Model - INFO - The number of test data is: 2874
+2022-11-09 20:10:38,168 - Model - INFO - No existing model, starting training from scratch...
+2022-11-09 20:10:38,171 - Model - INFO - Epoch 1 (1/251):
+2022-11-09 20:10:38,171 - Model - INFO - Learning rate:0.001000
+2022-11-09 20:12:28,988 - Model - INFO - PARAMETER ...
+2022-11-09 20:12:28,988 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-09 20:12:29,073 - Model - INFO - The number of training data is: 13998
+2022-11-09 20:12:29,073 - Model - INFO - The number of test data is: 2874
+2022-11-09 20:12:29,091 - Model - INFO - No existing model, starting training from scratch...
+2022-11-09 20:12:29,094 - Model - INFO - Epoch 1 (1/251):
+2022-11-09 20:12:29,094 - Model - INFO - Learning rate:0.001000
+2022-11-09 20:13:08,513 - Model - INFO - PARAMETER ...
+2022-11-09 20:13:08,513 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-09 20:13:08,595 - Model - INFO - The number of training data is: 13998
+2022-11-09 20:13:08,595 - Model - INFO - The number of test data is: 2874
+2022-11-09 20:13:08,613 - Model - INFO - No existing model, starting training from scratch...
+2022-11-09 20:13:08,616 - Model - INFO - Epoch 1 (1/251):
+2022-11-09 20:13:08,616 - Model - INFO - Learning rate:0.001000
+2022-11-09 20:19:04,372 - Model - INFO - PARAMETER ...
+2022-11-09 20:19:04,372 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-09 20:19:04,454 - Model - INFO - The number of training data is: 13998
+2022-11-09 20:19:04,455 - Model - INFO - The number of test data is: 2874
+2022-11-09 20:19:04,474 - Model - INFO - No existing model, starting training from scratch...
+2022-11-09 20:19:04,477 - Model - INFO - Epoch 1 (1/251):
+2022-11-09 20:19:04,477 - Model - INFO - Learning rate:0.001000
+2022-11-09 20:29:21,718 - Model - INFO - PARAMETER ...
+2022-11-09 20:29:21,718 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-09 20:29:21,802 - Model - INFO - The number of training data is: 13998
+2022-11-09 20:29:21,802 - Model - INFO - The number of test data is: 2874
+2022-11-09 20:29:21,820 - Model - INFO - No existing model, starting training from scratch...
+2022-11-09 20:29:21,823 - Model - INFO - Epoch 1 (1/251):
+2022-11-09 20:29:21,823 - Model - INFO - Learning rate:0.001000
+2022-11-09 20:32:47,022 - Model - INFO - PARAMETER ...
+2022-11-09 20:32:47,022 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-09 20:32:47,200 - Model - INFO - The number of training data is: 13998
+2022-11-09 20:32:47,200 - Model - INFO - The number of test data is: 2874
+2022-11-09 20:32:47,268 - Model - INFO - No existing model, starting training from scratch...
+2022-11-09 20:32:47,273 - Model - INFO - Epoch 1 (1/251):
+2022-11-09 20:32:47,273 - Model - INFO - Learning rate:0.001000
+2022-11-09 20:33:01,323 - Model - INFO - PARAMETER ...
+2022-11-09 20:33:01,323 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-09 20:33:01,405 - Model - INFO - The number of training data is: 13998
+2022-11-09 20:33:01,405 - Model - INFO - The number of test data is: 2874
+2022-11-09 20:33:01,422 - Model - INFO - No existing model, starting training from scratch...
+2022-11-09 20:33:01,426 - Model - INFO - Epoch 1 (1/251):
+2022-11-09 20:33:01,426 - Model - INFO - Learning rate:0.001000
+2022-11-09 20:34:51,211 - Model - INFO - PARAMETER ...
+2022-11-09 20:34:51,211 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-09 20:34:51,293 - Model - INFO - The number of training data is: 13998
+2022-11-09 20:34:51,294 - Model - INFO - The number of test data is: 2874
+2022-11-09 20:34:51,312 - Model - INFO - No existing model, starting training from scratch...
+2022-11-09 20:34:51,316 - Model - INFO - Epoch 1 (1/251):
+2022-11-09 20:34:51,316 - Model - INFO - Learning rate:0.001000
+2022-11-09 20:37:54,560 - Model - INFO - PARAMETER ...
+2022-11-09 20:37:54,561 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-09 20:37:54,642 - Model - INFO - The number of training data is: 13998
+2022-11-09 20:37:54,642 - Model - INFO - The number of test data is: 2874
+2022-11-09 20:37:54,664 - Model - INFO - No existing model, starting training from scratch...
+2022-11-09 20:37:54,669 - Model - INFO - Epoch 1 (1/251):
+2022-11-09 20:37:54,669 - Model - INFO - Learning rate:0.001000
+2022-11-09 20:38:38,528 - Model - INFO - PARAMETER ...
+2022-11-09 20:38:38,528 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-09 20:38:38,609 - Model - INFO - The number of training data is: 13998
+2022-11-09 20:38:38,610 - Model - INFO - The number of test data is: 2874
+2022-11-09 20:38:38,627 - Model - INFO - No existing model, starting training from scratch...
+2022-11-09 20:38:38,631 - Model - INFO - Epoch 1 (1/251):
+2022-11-09 20:38:38,631 - Model - INFO - Learning rate:0.001000
+2022-11-09 20:40:32,591 - Model - INFO - PARAMETER ...
+2022-11-09 20:40:32,591 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-09 20:40:32,674 - Model - INFO - The number of training data is: 13998
+2022-11-09 20:40:32,674 - Model - INFO - The number of test data is: 2874
+2022-11-09 20:40:32,692 - Model - INFO - No existing model, starting training from scratch...
+2022-11-09 20:40:32,696 - Model - INFO - Epoch 1 (1/251):
+2022-11-09 20:40:32,696 - Model - INFO - Learning rate:0.001000
+2022-11-09 20:42:08,267 - Model - INFO - PARAMETER ...
+2022-11-09 20:42:08,267 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-09 20:42:08,353 - Model - INFO - The number of training data is: 13998
+2022-11-09 20:42:08,353 - Model - INFO - The number of test data is: 2874
+2022-11-09 20:42:08,372 - Model - INFO - No existing model, starting training from scratch...
+2022-11-09 20:42:08,375 - Model - INFO - Epoch 1 (1/251):
+2022-11-09 20:42:08,375 - Model - INFO - Learning rate:0.001000
+2022-11-09 20:42:59,762 - Model - INFO - PARAMETER ...
+2022-11-09 20:42:59,762 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-09 20:42:59,844 - Model - INFO - The number of training data is: 13998
+2022-11-09 20:42:59,844 - Model - INFO - The number of test data is: 2874
+2022-11-09 20:42:59,861 - Model - INFO - No existing model, starting training from scratch...
+2022-11-09 20:42:59,865 - Model - INFO - Epoch 1 (1/251):
+2022-11-09 20:42:59,865 - Model - INFO - Learning rate:0.001000
+2022-11-09 20:44:10,896 - Model - INFO - PARAMETER ...
+2022-11-09 20:44:10,896 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-09 20:44:10,978 - Model - INFO - The number of training data is: 13998
+2022-11-09 20:44:10,978 - Model - INFO - The number of test data is: 2874
+2022-11-09 20:44:10,996 - Model - INFO - No existing model, starting training from scratch...
+2022-11-09 20:44:11,000 - Model - INFO - Epoch 1 (1/251):
+2022-11-09 20:44:11,000 - Model - INFO - Learning rate:0.001000
+2022-11-09 20:44:55,941 - Model - INFO - PARAMETER ...
+2022-11-09 20:44:55,941 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-09 20:44:56,023 - Model - INFO - The number of training data is: 13998
+2022-11-09 20:44:56,023 - Model - INFO - The number of test data is: 2874
+2022-11-09 20:44:56,040 - Model - INFO - No existing model, starting training from scratch...
+2022-11-09 20:44:56,044 - Model - INFO - Epoch 1 (1/251):
+2022-11-09 20:44:56,044 - Model - INFO - Learning rate:0.001000
+2022-11-09 20:49:29,553 - Model - INFO - PARAMETER ...
+2022-11-09 20:49:29,554 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-09 20:49:29,636 - Model - INFO - The number of training data is: 13998
+2022-11-09 20:49:29,636 - Model - INFO - The number of test data is: 2874
+2022-11-09 20:49:29,654 - Model - INFO - No existing model, starting training from scratch...
+2022-11-09 20:49:29,658 - Model - INFO - Epoch 1 (1/251):
+2022-11-09 20:49:29,658 - Model - INFO - Learning rate:0.001000
+2022-11-09 21:07:03,867 - Model - INFO - PARAMETER ...
+2022-11-09 21:07:03,867 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-09 21:07:03,961 - Model - INFO - The number of training data is: 13998
+2022-11-09 21:07:03,961 - Model - INFO - The number of test data is: 2874
+2022-11-09 21:07:03,988 - Model - INFO - No existing model, starting training from scratch...
+2022-11-09 21:07:03,992 - Model - INFO - Epoch 1 (1/251):
+2022-11-09 21:07:03,992 - Model - INFO - Learning rate:0.001000
+2022-11-09 21:09:53,464 - Model - INFO - PARAMETER ...
+2022-11-09 21:09:53,464 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-09 21:09:53,548 - Model - INFO - The number of training data is: 13998
+2022-11-09 21:09:53,548 - Model - INFO - The number of test data is: 2874
+2022-11-09 21:09:53,567 - Model - INFO - No existing model, starting training from scratch...
+2022-11-09 21:09:53,571 - Model - INFO - Epoch 1 (1/251):
+2022-11-09 21:09:53,571 - Model - INFO - Learning rate:0.001000
+2022-11-09 21:17:23,659 - Model - INFO - PARAMETER ...
+2022-11-09 21:17:23,660 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-09 21:17:23,741 - Model - INFO - The number of training data is: 13998
+2022-11-09 21:17:23,741 - Model - INFO - The number of test data is: 2874
+2022-11-09 21:17:23,759 - Model - INFO - No existing model, starting training from scratch...
+2022-11-09 21:17:23,763 - Model - INFO - Epoch 1 (1/251):
+2022-11-09 21:17:23,763 - Model - INFO - Learning rate:0.001000
+2022-11-09 21:18:04,791 - Model - INFO - PARAMETER ...
+2022-11-09 21:18:04,791 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-09 21:18:04,876 - Model - INFO - The number of training data is: 13998
+2022-11-09 21:18:04,876 - Model - INFO - The number of test data is: 2874
+2022-11-09 21:18:04,893 - Model - INFO - No existing model, starting training from scratch...
+2022-11-09 21:18:04,898 - Model - INFO - Epoch 1 (1/251):
+2022-11-09 21:18:04,898 - Model - INFO - Learning rate:0.001000
+2022-11-09 21:29:09,450 - Model - INFO - PARAMETER ...
+2022-11-09 21:29:09,451 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-09 21:29:09,575 - Model - INFO - The number of training data is: 13998
+2022-11-09 21:29:09,575 - Model - INFO - The number of test data is: 2874
+2022-11-09 21:29:09,614 - Model - INFO - No existing model, starting training from scratch...
+2022-11-09 21:29:09,621 - Model - INFO - Epoch 1 (1/251):
+2022-11-09 21:29:09,621 - Model - INFO - Learning rate:0.001000
+2022-11-09 22:41:10,720 - Model - INFO - PARAMETER ...
+2022-11-09 22:41:10,721 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-09 22:41:10,907 - Model - INFO - The number of training data is: 13998
+2022-11-09 22:41:10,907 - Model - INFO - The number of test data is: 2874
+2022-11-09 22:41:10,931 - Model - INFO - No existing model, starting training from scratch...
+2022-11-09 22:41:10,937 - Model - INFO - Epoch 1 (1/251):
+2022-11-09 22:41:10,937 - Model - INFO - Learning rate:0.001000
+2022-11-11 13:12:53,940 - Model - INFO - PARAMETER ...
+2022-11-11 13:12:53,941 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-11 13:12:54,060 - Model - INFO - The number of training data is: 13998
+2022-11-11 13:12:54,060 - Model - INFO - The number of test data is: 2874
+2022-11-11 13:12:54,093 - Model - INFO - No existing model, starting training from scratch...
+2022-11-11 13:12:54,102 - Model - INFO - Epoch 1 (1/251):
+2022-11-11 13:12:54,102 - Model - INFO - Learning rate:0.001000
+2022-11-11 13:13:52,242 - Model - INFO - PARAMETER ...
+2022-11-11 13:13:52,242 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-11 13:13:52,342 - Model - INFO - The number of training data is: 13998
+2022-11-11 13:13:52,342 - Model - INFO - The number of test data is: 2874
+2022-11-11 13:13:52,362 - Model - INFO - No existing model, starting training from scratch...
+2022-11-11 13:13:52,367 - Model - INFO - Epoch 1 (1/251):
+2022-11-11 13:13:52,367 - Model - INFO - Learning rate:0.001000
+2022-11-11 15:08:01,191 - Model - INFO - PARAMETER ...
+2022-11-11 15:08:01,192 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-11 15:08:01,280 - Model - INFO - The number of training data is: 13998
+2022-11-11 15:08:01,280 - Model - INFO - The number of test data is: 2874
+2022-11-11 15:08:01,300 - Model - INFO - No existing model, starting training from scratch...
+2022-11-11 15:08:01,304 - Model - INFO - Epoch 1 (1/251):
+2022-11-11 15:08:01,304 - Model - INFO - Learning rate:0.001000
+2022-11-11 15:16:58,418 - Model - INFO - PARAMETER ...
+2022-11-11 15:16:58,418 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-11 15:16:58,507 - Model - INFO - The number of training data is: 13998
+2022-11-11 15:16:58,508 - Model - INFO - The number of test data is: 2874
+2022-11-11 15:16:58,526 - Model - INFO - No existing model, starting training from scratch...
+2022-11-11 15:16:58,531 - Model - INFO - Epoch 1 (1/251):
+2022-11-11 15:16:58,531 - Model - INFO - Learning rate:0.001000
+2022-11-11 15:20:50,986 - Model - INFO - PARAMETER ...
+2022-11-11 15:20:50,986 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-11 15:20:51,074 - Model - INFO - The number of training data is: 13998
+2022-11-11 15:20:51,075 - Model - INFO - The number of test data is: 2874
+2022-11-11 15:20:51,094 - Model - INFO - No existing model, starting training from scratch...
+2022-11-11 15:20:51,098 - Model - INFO - Epoch 1 (1/251):
+2022-11-11 15:20:51,098 - Model - INFO - Learning rate:0.001000
+2022-11-11 15:21:31,070 - Model - INFO - PARAMETER ...
+2022-11-11 15:21:31,070 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-11 15:21:31,158 - Model - INFO - The number of training data is: 13998
+2022-11-11 15:21:31,158 - Model - INFO - The number of test data is: 2874
+2022-11-11 15:21:31,176 - Model - INFO - No existing model, starting training from scratch...
+2022-11-11 15:21:31,180 - Model - INFO - Epoch 1 (1/251):
+2022-11-11 15:21:31,180 - Model - INFO - Learning rate:0.001000
+2022-11-11 15:24:06,446 - Model - INFO - PARAMETER ...
+2022-11-11 15:24:06,446 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-11 15:24:06,536 - Model - INFO - The number of training data is: 13998
+2022-11-11 15:24:06,536 - Model - INFO - The number of test data is: 2874
+2022-11-11 15:24:06,553 - Model - INFO - No existing model, starting training from scratch...
+2022-11-11 15:24:06,557 - Model - INFO - Epoch 1 (1/251):
+2022-11-11 15:24:06,557 - Model - INFO - Learning rate:0.001000
+2022-11-11 15:27:55,670 - Model - INFO - PARAMETER ...
+2022-11-11 15:27:55,670 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-11 15:27:55,759 - Model - INFO - The number of training data is: 13998
+2022-11-11 15:27:55,759 - Model - INFO - The number of test data is: 2874
+2022-11-11 15:27:55,777 - Model - INFO - No existing model, starting training from scratch...
+2022-11-11 15:27:55,781 - Model - INFO - Epoch 1 (1/251):
+2022-11-11 15:27:55,782 - Model - INFO - Learning rate:0.001000
+2022-11-11 15:28:58,429 - Model - INFO - PARAMETER ...
+2022-11-11 15:28:58,429 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-11 15:28:58,520 - Model - INFO - The number of training data is: 13998
+2022-11-11 15:28:58,520 - Model - INFO - The number of test data is: 2874
+2022-11-11 15:28:58,538 - Model - INFO - No existing model, starting training from scratch...
+2022-11-11 15:28:58,543 - Model - INFO - Epoch 1 (1/251):
+2022-11-11 15:28:58,543 - Model - INFO - Learning rate:0.001000
+2022-11-11 15:30:14,212 - Model - INFO - PARAMETER ...
+2022-11-11 15:30:14,212 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-11 15:30:14,308 - Model - INFO - The number of training data is: 13998
+2022-11-11 15:30:14,308 - Model - INFO - The number of test data is: 2874
+2022-11-11 15:30:14,327 - Model - INFO - No existing model, starting training from scratch...
+2022-11-11 15:30:14,331 - Model - INFO - Epoch 1 (1/251):
+2022-11-11 15:30:14,332 - Model - INFO - Learning rate:0.001000
+2022-11-11 15:32:38,652 - Model - INFO - PARAMETER ...
+2022-11-11 15:32:38,652 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-11 15:32:38,758 - Model - INFO - The number of training data is: 13998
+2022-11-11 15:32:38,758 - Model - INFO - The number of test data is: 2874
+2022-11-11 15:32:38,781 - Model - INFO - No existing model, starting training from scratch...
+2022-11-11 15:32:38,786 - Model - INFO - Epoch 1 (1/251):
+2022-11-11 15:32:38,786 - Model - INFO - Learning rate:0.001000
+2022-11-11 15:33:58,990 - Model - INFO - PARAMETER ...
+2022-11-11 15:33:58,990 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-11 15:33:59,096 - Model - INFO - The number of training data is: 13998
+2022-11-11 15:33:59,096 - Model - INFO - The number of test data is: 2874
+2022-11-11 15:33:59,118 - Model - INFO - No existing model, starting training from scratch...
+2022-11-11 15:33:59,123 - Model - INFO - Epoch 1 (1/251):
+2022-11-11 15:33:59,123 - Model - INFO - Learning rate:0.001000
+2022-11-11 15:34:18,651 - Model - INFO - PARAMETER ...
+2022-11-11 15:34:18,652 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-11 15:34:18,758 - Model - INFO - The number of training data is: 13998
+2022-11-11 15:34:18,759 - Model - INFO - The number of test data is: 2874
+2022-11-11 15:34:18,781 - Model - INFO - No existing model, starting training from scratch...
+2022-11-11 15:34:18,787 - Model - INFO - Epoch 1 (1/251):
+2022-11-11 15:34:18,787 - Model - INFO - Learning rate:0.001000
+2022-11-11 15:36:04,346 - Model - INFO - PARAMETER ...
+2022-11-11 15:36:04,346 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-11 15:36:04,455 - Model - INFO - The number of training data is: 13998
+2022-11-11 15:36:04,455 - Model - INFO - The number of test data is: 2874
+2022-11-11 15:36:04,477 - Model - INFO - No existing model, starting training from scratch...
+2022-11-11 15:36:04,482 - Model - INFO - Epoch 1 (1/251):
+2022-11-11 15:36:04,482 - Model - INFO - Learning rate:0.001000
+2022-11-11 15:36:47,007 - Model - INFO - PARAMETER ...
+2022-11-11 15:36:47,007 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-11 15:36:47,109 - Model - INFO - The number of training data is: 13998
+2022-11-11 15:36:47,110 - Model - INFO - The number of test data is: 2874
+2022-11-11 15:36:47,130 - Model - INFO - No existing model, starting training from scratch...
+2022-11-11 15:36:47,136 - Model - INFO - Epoch 1 (1/251):
+2022-11-11 15:36:47,136 - Model - INFO - Learning rate:0.001000
+2022-11-11 15:37:53,221 - Model - INFO - PARAMETER ...
+2022-11-11 15:37:53,221 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-11 15:37:53,332 - Model - INFO - The number of training data is: 13998
+2022-11-11 15:37:53,332 - Model - INFO - The number of test data is: 2874
+2022-11-11 15:37:53,356 - Model - INFO - No existing model, starting training from scratch...
+2022-11-11 15:37:53,361 - Model - INFO - Epoch 1 (1/251):
+2022-11-11 15:37:53,362 - Model - INFO - Learning rate:0.001000
+2022-11-11 15:38:16,258 - Model - INFO - PARAMETER ...
+2022-11-11 15:38:16,258 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-11 15:38:16,363 - Model - INFO - The number of training data is: 13998
+2022-11-11 15:38:16,363 - Model - INFO - The number of test data is: 2874
+2022-11-11 15:38:16,383 - Model - INFO - No existing model, starting training from scratch...
+2022-11-11 15:38:16,388 - Model - INFO - Epoch 1 (1/251):
+2022-11-11 15:38:16,388 - Model - INFO - Learning rate:0.001000
+2022-11-11 15:38:54,975 - Model - INFO - PARAMETER ...
+2022-11-11 15:38:54,975 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-11 15:38:55,080 - Model - INFO - The number of training data is: 13998
+2022-11-11 15:38:55,080 - Model - INFO - The number of test data is: 2874
+2022-11-11 15:38:55,102 - Model - INFO - No existing model, starting training from scratch...
+2022-11-11 15:38:55,107 - Model - INFO - Epoch 1 (1/251):
+2022-11-11 15:38:55,107 - Model - INFO - Learning rate:0.001000
+2022-11-11 15:39:41,339 - Model - INFO - PARAMETER ...
+2022-11-11 15:39:41,339 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-11 15:39:41,441 - Model - INFO - The number of training data is: 13998
+2022-11-11 15:39:41,442 - Model - INFO - The number of test data is: 2874
+2022-11-11 15:39:41,461 - Model - INFO - No existing model, starting training from scratch...
+2022-11-11 15:39:41,465 - Model - INFO - Epoch 1 (1/251):
+2022-11-11 15:39:41,465 - Model - INFO - Learning rate:0.001000
+2022-11-11 15:40:11,053 - Model - INFO - PARAMETER ...
+2022-11-11 15:40:11,053 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-11 15:40:11,157 - Model - INFO - The number of training data is: 13998
+2022-11-11 15:40:11,157 - Model - INFO - The number of test data is: 2874
+2022-11-11 15:40:11,177 - Model - INFO - No existing model, starting training from scratch...
+2022-11-11 15:40:11,182 - Model - INFO - Epoch 1 (1/251):
+2022-11-11 15:40:11,182 - Model - INFO - Learning rate:0.001000
+2022-11-11 15:42:31,973 - Model - INFO - PARAMETER ...
+2022-11-11 15:42:31,973 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-11 15:42:32,086 - Model - INFO - The number of training data is: 13998
+2022-11-11 15:42:32,086 - Model - INFO - The number of test data is: 2874
+2022-11-11 15:42:32,106 - Model - INFO - No existing model, starting training from scratch...
+2022-11-11 15:42:32,111 - Model - INFO - Epoch 1 (1/251):
+2022-11-11 15:42:32,111 - Model - INFO - Learning rate:0.001000
+2022-11-11 15:43:02,261 - Model - INFO - PARAMETER ...
+2022-11-11 15:43:02,261 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-11 15:43:02,365 - Model - INFO - The number of training data is: 13998
+2022-11-11 15:43:02,365 - Model - INFO - The number of test data is: 2874
+2022-11-11 15:43:02,387 - Model - INFO - No existing model, starting training from scratch...
+2022-11-11 15:43:02,392 - Model - INFO - Epoch 1 (1/251):
+2022-11-11 15:43:02,392 - Model - INFO - Learning rate:0.001000
+2022-11-11 15:49:00,350 - Model - INFO - PARAMETER ...
+2022-11-11 15:49:00,350 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-11 15:49:00,473 - Model - INFO - The number of training data is: 13998
+2022-11-11 15:49:00,473 - Model - INFO - The number of test data is: 2874
+2022-11-11 15:49:00,497 - Model - INFO - No existing model, starting training from scratch...
+2022-11-11 15:49:00,502 - Model - INFO - Epoch 1 (1/251):
+2022-11-11 15:49:00,503 - Model - INFO - Learning rate:0.001000
+2022-11-12 20:04:12,768 - Model - INFO - PARAMETER ...
+2022-11-12 20:04:12,768 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-12 20:04:12,877 - Model - INFO - The number of training data is: 13998
+2022-11-12 20:04:12,877 - Model - INFO - The number of test data is: 2874
+2022-11-12 20:04:12,906 - Model - INFO - No existing model, starting training from scratch...
+2022-11-12 20:04:12,914 - Model - INFO - Epoch 1 (1/251):
+2022-11-12 20:04:12,914 - Model - INFO - Learning rate:0.001000
+2022-11-12 20:16:02,118 - Model - INFO - PARAMETER ...
+2022-11-12 20:16:02,118 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-12 20:16:02,223 - Model - INFO - The number of training data is: 13998
+2022-11-12 20:16:02,224 - Model - INFO - The number of test data is: 2874
+2022-11-12 20:16:02,242 - Model - INFO - No existing model, starting training from scratch...
+2022-11-12 20:16:02,248 - Model - INFO - Epoch 1 (1/251):
+2022-11-12 20:16:02,248 - Model - INFO - Learning rate:0.001000
+2022-11-12 20:24:16,265 - Model - INFO - PARAMETER ...
+2022-11-12 20:24:16,266 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-12 20:24:16,468 - Model - INFO - The number of training data is: 13998
+2022-11-12 20:24:16,469 - Model - INFO - The number of test data is: 2874
+2022-11-12 20:24:16,507 - Model - INFO - No existing model, starting training from scratch...
+2022-11-12 20:24:16,515 - Model - INFO - Epoch 1 (1/251):
+2022-11-12 20:24:16,515 - Model - INFO - Learning rate:0.001000
+2022-11-16 13:23:49,794 - Model - INFO - PARAMETER ...
+2022-11-16 13:23:49,795 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-16 13:23:49,888 - Model - INFO - The number of training data is: 13998
+2022-11-16 13:23:49,889 - Model - INFO - The number of test data is: 2874
+2022-11-16 13:26:12,257 - Model - INFO - PARAMETER ...
+2022-11-16 13:26:12,257 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-16 13:26:12,373 - Model - INFO - The number of training data is: 13998
+2022-11-16 13:26:12,373 - Model - INFO - The number of test data is: 2874
+2022-11-16 13:26:13,255 - Model - INFO - No existing model, starting training from scratch...
+2022-11-16 13:26:13,266 - Model - INFO - Epoch 1 (1/251):
+2022-11-16 13:26:13,266 - Model - INFO - Learning rate:0.001000
+2022-11-16 13:28:20,440 - Model - INFO - PARAMETER ...
+2022-11-16 13:28:20,440 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-16 13:28:20,552 - Model - INFO - The number of training data is: 13998
+2022-11-16 13:28:20,552 - Model - INFO - The number of test data is: 2874
+2022-11-16 13:28:20,876 - Model - INFO - No existing model, starting training from scratch...
+2022-11-16 13:28:20,881 - Model - INFO - Epoch 1 (1/251):
+2022-11-16 13:28:20,881 - Model - INFO - Learning rate:0.001000
+2022-11-16 13:29:46,243 - Model - INFO - PARAMETER ...
+2022-11-16 13:29:46,243 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-16 13:29:46,357 - Model - INFO - The number of training data is: 13998
+2022-11-16 13:29:46,358 - Model - INFO - The number of test data is: 2874
+2022-11-16 13:29:46,672 - Model - INFO - No existing model, starting training from scratch...
+2022-11-16 13:29:46,676 - Model - INFO - Epoch 1 (1/251):
+2022-11-16 13:29:46,676 - Model - INFO - Learning rate:0.001000
+2022-11-16 13:30:13,648 - Model - INFO - PARAMETER ...
+2022-11-16 13:30:13,648 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-16 13:30:13,764 - Model - INFO - The number of training data is: 13998
+2022-11-16 13:30:13,764 - Model - INFO - The number of test data is: 2874
+2022-11-16 13:30:14,089 - Model - INFO - No existing model, starting training from scratch...
+2022-11-16 13:30:14,093 - Model - INFO - Epoch 1 (1/251):
+2022-11-16 13:30:14,094 - Model - INFO - Learning rate:0.001000
+2022-11-16 13:31:02,398 - Model - INFO - PARAMETER ...
+2022-11-16 13:31:02,398 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-16 13:31:02,512 - Model - INFO - The number of training data is: 13998
+2022-11-16 13:31:02,512 - Model - INFO - The number of test data is: 2874
+2022-11-16 13:31:02,831 - Model - INFO - No existing model, starting training from scratch...
+2022-11-16 13:31:02,836 - Model - INFO - Epoch 1 (1/251):
+2022-11-16 13:31:02,836 - Model - INFO - Learning rate:0.001000
+2022-11-16 13:34:37,961 - Model - INFO - PARAMETER ...
+2022-11-16 13:34:37,961 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-16 13:34:38,075 - Model - INFO - The number of training data is: 13998
+2022-11-16 13:34:38,076 - Model - INFO - The number of test data is: 2874
+2022-11-16 13:34:38,386 - Model - INFO - No existing model, starting training from scratch...
+2022-11-16 13:34:38,390 - Model - INFO - Epoch 1 (1/251):
+2022-11-16 13:34:38,390 - Model - INFO - Learning rate:0.001000
+2022-11-16 13:35:27,492 - Model - INFO - PARAMETER ...
+2022-11-16 13:35:27,493 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-16 13:35:27,617 - Model - INFO - The number of training data is: 13998
+2022-11-16 13:35:27,617 - Model - INFO - The number of test data is: 2874
+2022-11-16 13:35:27,968 - Model - INFO - No existing model, starting training from scratch...
+2022-11-16 13:35:27,974 - Model - INFO - Epoch 1 (1/251):
+2022-11-16 13:35:27,974 - Model - INFO - Learning rate:0.001000
+2022-11-16 13:36:22,944 - Model - INFO - PARAMETER ...
+2022-11-16 13:36:22,945 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-16 13:36:23,060 - Model - INFO - The number of training data is: 13998
+2022-11-16 13:36:23,060 - Model - INFO - The number of test data is: 2874
+2022-11-16 13:36:23,375 - Model - INFO - No existing model, starting training from scratch...
+2022-11-16 13:36:23,379 - Model - INFO - Epoch 1 (1/251):
+2022-11-16 13:36:23,379 - Model - INFO - Learning rate:0.001000
+2022-11-16 13:46:50,881 - Model - INFO - PARAMETER ...
+2022-11-16 13:46:50,881 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-16 13:46:50,994 - Model - INFO - The number of training data is: 13998
+2022-11-16 13:46:50,995 - Model - INFO - The number of test data is: 2874
+2022-11-16 13:46:51,305 - Model - INFO - No existing model, starting training from scratch...
+2022-11-16 13:46:51,309 - Model - INFO - Epoch 1 (1/251):
+2022-11-16 13:46:51,309 - Model - INFO - Learning rate:0.001000
+2022-11-16 13:48:42,640 - Model - INFO - PARAMETER ...
+2022-11-16 13:48:42,641 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-16 13:48:42,756 - Model - INFO - The number of training data is: 13998
+2022-11-16 13:48:42,756 - Model - INFO - The number of test data is: 2874
+2022-11-16 13:48:43,063 - Model - INFO - No existing model, starting training from scratch...
+2022-11-16 13:48:43,067 - Model - INFO - Epoch 1 (1/251):
+2022-11-16 13:48:43,068 - Model - INFO - Learning rate:0.001000
+2022-11-16 13:49:07,202 - Model - INFO - PARAMETER ...
+2022-11-16 13:49:07,203 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-16 13:49:07,318 - Model - INFO - The number of training data is: 13998
+2022-11-16 13:49:07,318 - Model - INFO - The number of test data is: 2874
+2022-11-16 13:49:07,627 - Model - INFO - No existing model, starting training from scratch...
+2022-11-16 13:49:07,631 - Model - INFO - Epoch 1 (1/251):
+2022-11-16 13:49:07,631 - Model - INFO - Learning rate:0.001000
+2022-11-16 13:50:03,523 - Model - INFO - PARAMETER ...
+2022-11-16 13:50:03,523 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-16 13:50:03,636 - Model - INFO - The number of training data is: 13998
+2022-11-16 13:50:03,637 - Model - INFO - The number of test data is: 2874
+2022-11-16 13:50:04,021 - Model - INFO - No existing model, starting training from scratch...
+2022-11-16 13:50:04,025 - Model - INFO - Epoch 1 (1/251):
+2022-11-16 13:50:04,025 - Model - INFO - Learning rate:0.001000
+2022-11-16 13:50:27,529 - Model - INFO - PARAMETER ...
+2022-11-16 13:50:27,530 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-16 13:50:27,646 - Model - INFO - The number of training data is: 13998
+2022-11-16 13:50:27,646 - Model - INFO - The number of test data is: 2874
+2022-11-16 13:50:27,953 - Model - INFO - No existing model, starting training from scratch...
+2022-11-16 13:50:27,958 - Model - INFO - Epoch 1 (1/251):
+2022-11-16 13:50:27,958 - Model - INFO - Learning rate:0.001000
+2022-11-16 13:56:11,173 - Model - INFO - PARAMETER ...
+2022-11-16 13:56:11,173 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-16 13:56:11,287 - Model - INFO - The number of training data is: 13998
+2022-11-16 13:56:11,287 - Model - INFO - The number of test data is: 2874
+2022-11-16 13:56:11,598 - Model - INFO - No existing model, starting training from scratch...
+2022-11-16 13:56:11,602 - Model - INFO - Epoch 1 (1/251):
+2022-11-16 13:56:11,602 - Model - INFO - Learning rate:0.001000
+2022-11-16 13:56:53,617 - Model - INFO - PARAMETER ...
+2022-11-16 13:56:53,618 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-16 13:56:53,731 - Model - INFO - The number of training data is: 13998
+2022-11-16 13:56:53,731 - Model - INFO - The number of test data is: 2874
+2022-11-16 13:56:54,042 - Model - INFO - No existing model, starting training from scratch...
+2022-11-16 13:56:54,046 - Model - INFO - Epoch 1 (1/251):
+2022-11-16 13:56:54,047 - Model - INFO - Learning rate:0.001000
+2022-11-16 14:05:08,598 - Model - INFO - PARAMETER ...
+2022-11-16 14:05:08,599 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-16 14:05:08,713 - Model - INFO - The number of training data is: 13998
+2022-11-16 14:05:08,713 - Model - INFO - The number of test data is: 2874
+2022-11-16 14:05:09,040 - Model - INFO - No existing model, starting training from scratch...
+2022-11-16 14:05:09,045 - Model - INFO - Epoch 1 (1/251):
+2022-11-16 14:05:09,045 - Model - INFO - Learning rate:0.001000
+2022-11-16 14:10:43,350 - Model - INFO - PARAMETER ...
+2022-11-16 14:10:43,350 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-16 14:10:43,468 - Model - INFO - The number of training data is: 13998
+2022-11-16 14:10:43,468 - Model - INFO - The number of test data is: 2874
+2022-11-16 14:10:43,785 - Model - INFO - No existing model, starting training from scratch...
+2022-11-16 14:10:43,790 - Model - INFO - Epoch 1 (1/251):
+2022-11-16 14:10:43,790 - Model - INFO - Learning rate:0.001000
+2022-11-16 14:10:55,967 - Model - INFO - PARAMETER ...
+2022-11-16 14:10:55,967 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-16 14:10:56,080 - Model - INFO - The number of training data is: 13998
+2022-11-16 14:10:56,080 - Model - INFO - The number of test data is: 2874
+2022-11-16 14:10:56,386 - Model - INFO - No existing model, starting training from scratch...
+2022-11-16 14:10:56,391 - Model - INFO - Epoch 1 (1/251):
+2022-11-16 14:10:56,391 - Model - INFO - Learning rate:0.001000
+2022-11-16 14:13:05,943 - Model - INFO - PARAMETER ...
+2022-11-16 14:13:05,943 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-16 14:13:06,059 - Model - INFO - The number of training data is: 13998
+2022-11-16 14:13:06,059 - Model - INFO - The number of test data is: 2874
+2022-11-16 14:13:06,369 - Model - INFO - No existing model, starting training from scratch...
+2022-11-16 14:13:06,373 - Model - INFO - Epoch 1 (1/251):
+2022-11-16 14:13:06,374 - Model - INFO - Learning rate:0.001000
+2022-11-16 14:14:32,846 - Model - INFO - PARAMETER ...
+2022-11-16 14:14:32,846 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-16 14:14:32,960 - Model - INFO - The number of training data is: 13998
+2022-11-16 14:14:32,960 - Model - INFO - The number of test data is: 2874
+2022-11-16 14:14:33,274 - Model - INFO - No existing model, starting training from scratch...
+2022-11-16 14:14:33,279 - Model - INFO - Epoch 1 (1/251):
+2022-11-16 14:14:33,279 - Model - INFO - Learning rate:0.001000
+2022-11-16 14:21:40,488 - Model - INFO - PARAMETER ...
+2022-11-16 14:21:40,488 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-16 14:21:40,608 - Model - INFO - The number of training data is: 13998
+2022-11-16 14:21:40,608 - Model - INFO - The number of test data is: 2874
+2022-11-16 14:21:49,408 - Model - INFO - PARAMETER ...
+2022-11-16 14:21:49,408 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-16 14:21:49,523 - Model - INFO - The number of training data is: 13998
+2022-11-16 14:21:49,523 - Model - INFO - The number of test data is: 2874
+2022-11-16 14:21:49,832 - Model - INFO - No existing model, starting training from scratch...
+2022-11-16 14:21:49,836 - Model - INFO - Epoch 1 (1/251):
+2022-11-16 14:21:49,836 - Model - INFO - Learning rate:0.001000
+2022-11-16 14:23:59,944 - Model - INFO - PARAMETER ...
+2022-11-16 14:23:59,944 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-16 14:24:00,070 - Model - INFO - The number of training data is: 13998
+2022-11-16 14:24:00,070 - Model - INFO - The number of test data is: 2874
+2022-11-16 14:24:00,743 - Model - INFO - No existing model, starting training from scratch...
+2022-11-16 14:24:00,748 - Model - INFO - Epoch 1 (1/251):
+2022-11-16 14:24:00,749 - Model - INFO - Learning rate:0.001000
+2022-11-16 14:24:12,868 - Model - INFO - PARAMETER ...
+2022-11-16 14:24:12,868 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-16 14:24:12,981 - Model - INFO - The number of training data is: 13998
+2022-11-16 14:24:12,981 - Model - INFO - The number of test data is: 2874
+2022-11-16 14:24:13,301 - Model - INFO - No existing model, starting training from scratch...
+2022-11-16 14:24:13,305 - Model - INFO - Epoch 1 (1/251):
+2022-11-16 14:24:13,305 - Model - INFO - Learning rate:0.001000
+2022-11-16 14:27:34,796 - Model - INFO - PARAMETER ...
+2022-11-16 14:27:34,796 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='BAGNet', lr_decay=0.5, model='BAGNet', normal=True, npoint=2048, optimizer='Adam', step_size=20, use_cpu=True)
+2022-11-16 14:27:34,910 - Model - INFO - The number of training data is: 13998
+2022-11-16 14:27:34,910 - Model - INFO - The number of test data is: 2874
+2022-11-16 14:27:35,217 - Model - INFO - No existing model, starting training from scratch...
+2022-11-16 14:27:35,222 - Model - INFO - Epoch 1 (1/251):
+2022-11-16 14:27:35,222 - Model - INFO - Learning rate:0.001000
